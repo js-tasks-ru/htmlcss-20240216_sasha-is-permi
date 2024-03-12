@@ -1,0 +1,25 @@
+.card {
+   background: var(--white);
+    width: 350px;
+    height: 367px;
+    padding: 40px;
+    box-shadow: 0px 2px 4px 0px #2124290D;
+    border-radius: 10px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.card_small {
+    padding: 10px;
+}
+.card__title {
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    color: var(--black);
+    margin: 0;
+}
+.card__image {
+    height: 100px;
+}
