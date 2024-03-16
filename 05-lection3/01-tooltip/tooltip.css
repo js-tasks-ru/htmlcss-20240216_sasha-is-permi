@@ -1,5 +1,7 @@
 .tooltip {
     display: inline-block;
+}
+.tooltip__main {
     position: relative;
     top: 100px;
     left: 50%;
